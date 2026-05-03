@@ -7,7 +7,7 @@
 % Packages
 \RequirePackage{multicol}
 \RequirePackage[landscape, top=1cm, left=1cm, right=1cm, bottom=1cm, a4paper]{geometry}
-\RequirePackage{libertinus}
+\RequirePackage[scale=.85]{librecaslon}
 \RequirePackage{inconsolata}
 \RequirePackage{fancyvrb}
 \RequirePackage{amsfonts, amsmath}
@@ -38,7 +38,7 @@
 % Paragraph formatting
 \setcounter{secnumdepth}{0}
 \setlength{\parindent}{0em}
-\setlength{\parskip}{0em}
+\setlength{\parskip}{0.2em}
 
 % Multicol parameters
 \setlength{\premulticols}{1pt}
